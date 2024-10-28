@@ -1,3 +1,5 @@
 ## Olá, Seja bem-vindo(a) ao meu GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardollc)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardollc&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardollc&show_icons=true&theme=dark)
