@@ -1,6 +1,7 @@
 ## Olá, Seja bem-vindo(a) ao meu GitHub
 
-###### Estagiário de Requisitos de Software e estudante de Análise e Desenvolvimento de Sistemas. Completamente comprometido com o meu crescimento profissional e evolução das minhas habilidades para contribuir de forma significativa no campo da tecnologia, buscando superar os desafios com entusiasmo e criatividade na aplicação de soluções inovadoras.
+###### Meu nome é Eduardo Leite Lapa Canguçu, durante toda minha trajetória venho adquirido experiência e habilidades na área de tecnologia. Atualmente estou estudando programação e fazendo o ensino superior, cursando  Sistemas de Informação no IFBaiano (Instituto Federal de Educação, Ciência e Tecnologia Baiano). Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para o crescimento da empresa.
+
 ##
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardollc&show_icons=true&theme=dark)
