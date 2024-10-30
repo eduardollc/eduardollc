@@ -1,6 +1,6 @@
 ## Olá, Seja bem-vindo(a) ao meu GitHub
 
-###### Meu nome é Eduardo Leite Lapa Canguçu, durante toda minha trajetória venho adquirido experiência e habilidades na área de tecnologia. Atualmente estou estudando programação e fazendo o ensino superior, cursando  Sistemas de Informação no IFBaiano (Instituto Federal de Educação, Ciência e Tecnologia Baiano). Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para o crescimento da empresa.
+###### Meu nome é Eduardo Leite Lapa Canguçu, durante toda minha trajetória venho adquirindo experiência e habilidades na área de tecnologia. Atualmente estou estudando programação e fazendo o ensino superior, cursando  Sistemas de Informação no IFBaiano (Instituto Federal de Educação, Ciência e Tecnologia Baiano). Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para o crescimento da empresa.
 
 ##
 
