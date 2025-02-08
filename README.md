@@ -11,7 +11,7 @@
  ##
 
  ### Studying in this moment:
-<img src="https://skillicons.dev/icons?i=javascript,java" /><br>
+<img src="https://skillicons.dev/icons?i=javascript,java,html,css" /><br>
 
 ##
 
