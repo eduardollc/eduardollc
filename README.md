@@ -9,7 +9,7 @@
  ##
 
  ### Studying in this moment:
-<img src="https://skillicons.dev/icons?i=java" /><br>
+<img src="https://skillicons.dev/icons?i=java,csharp" /><br>
 
 ##
 
