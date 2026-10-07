@@ -2,10 +2,6 @@
 
 ###### Meu nome é Eduardo, durante toda minha trajetória venho adquirindo experiência e habilidades na área de tecnologia. Atualmente estou estudando programação e fazendo o ensino superior, cursando  Sistemas de Informação no IFBaiano. Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para o crescimento da empresa.
 
-##
-
-
-
  ##
 
  ### Studying in this moment:
@@ -17,6 +13,3 @@
   <a href = "mailto:eduardollapac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardoleitelapacanguçu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-##
-
