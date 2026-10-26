@@ -1,6 +1,6 @@
 ## Olá, Seja bem-vindo(a) ao meu GitHub
 
-###### Meu nome é Eduardo, durante toda minha trajetória venho adquirindo experiência e habilidades na área de tecnologia. Atualmente estou estudando programação e fazendo o ensino superior, cursando  Sistemas de Informação no IFBaiano. Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para o crescimento da empresa.
+###### Meu nome é Eduardo, sou estudante de Bacharelado em Sistemas de Informação no IF Baiano, com interesse em desenvolvimento de software e construção de soluções tecnológicas. Atualmente, estou aprimorando meus conhecimentos em Java, C#, bancos de dados SQL e desenvolvimento web, aplicando os conceitos estudados em projetos acadêmicos e pessoais. Busco desenvolver minhas habilidades técnicas, ampliar minha experiência prática e contribuir para a criação de soluções eficientes, enquanto evoluo profissionalmente na área de tecnologia da informação.
 
  ##
 
