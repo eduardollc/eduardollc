@@ -5,7 +5,7 @@
  ##
 
  ### Studying in this moment:
-<img src="https://skillicons.dev/icons?i=java,cs" /><br>
+<img src="https://skillicons.dev/icons?i=java,cs,html,css" /><br>
 
 ##
 
